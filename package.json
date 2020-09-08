@@ -1,10 +1,12 @@
 {
-  "name": "prettier",
+  "name": "@popdog/prettier",
   "version": "1.0.0",
   "description": "Shared Prettier Config",
   "main": "index.json",
   "repository": "git@github.com:popdog/prettier.git",
   "author": "aaronlabrie <aaron@aaronlabrie.com>",
   "license": "MIT",
-  "private": true
+  "publishConfig": { 
+    "registry": "https://npm.pkg.github.com/"
+  }
 }
