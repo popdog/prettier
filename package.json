@@ -1,6 +1,6 @@
 {
   "name": "@popdog/prettier",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Shared Prettier Config",
   "main": "index.json",
   "repository": "git@github.com:popdog/prettier.git",
